@@ -1,2 +1,2 @@
 # belajar-github
--
+Learning Purpose
